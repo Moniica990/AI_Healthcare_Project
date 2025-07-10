@@ -112,12 +112,12 @@ timestamp,x,y,z
 
 ---
 
-## 🙌 Acknowledgments
+📺 Demo
+🎥 Watch the App in Action
 
-* Open-source libraries: Streamlit, Scikit-learn, Plotly
-* Movement data support from IMU/MPU6050 sensor systems
-* Medical guidance from physiotherapists and rehabilitation specialists
 
----
+https://github.com/user-attachments/assets/1b82e56a-d889-471d-95f0-e5fc8d5cad0e
+
+
 
 
