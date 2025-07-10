@@ -15,13 +15,6 @@ Foot drop is a condition that causes difficulty lifting the front part of the fo
 
 ---
 
-## 🚀 Live Demo
-
-📽️ **Watch the system in action**:
-👉 [Click here to view demo](https://your-video-link.com) *(replace with real video/GIF if available)*
-
----
-
 ## 🌟 Key Features
 
 | Feature                            | Description                                                     |
